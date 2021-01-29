@@ -1,0 +1,107 @@
+.login{
+    padding: 80px 0px;
+}
+
+.login-para{
+    padding-top: 80px;
+}
+.login-content{
+    padding: 80px;
+    background-color: rgb(0, 183, 255);
+}
+.login-form {
+    background-color: #fff;
+    box-shadow: 1px -1px 3px rgb(0 0 0 / 10%);
+    padding: 94px 80px;
+}
+
+.login-form h3{
+    color:rgb(0, 183, 255);
+}
+
+.login-form input{
+   border:none;
+    border-bottom: 1px solid rgb(0, 183, 255);
+    border-radius: 0px !important;
+}
+.login-form input:focus{
+    box-shadow: none !important;
+}
+::placeholder{
+    color:#747474;
+}
+
+
+
+.login-form button{
+    background-color:rgb(0, 183, 255);
+    color:#FFFFFF;
+    border-radius: 30px;
+}
+.login-form .remembar-forgot .form-control{
+    color:#FFFFFF !important;
+}
+.login-form button:focus{
+    box-shadow: none;
+}
+
+.login-head h5 span{
+    color:#000000;
+}
+
+.video-head h5 span { 
+   color:#000000;
+}
+.video-head h5{
+    color:rgb(0, 183, 255);
+}
+
+.video-head h2{
+    color:rgb(0, 183, 255);
+}
+.video-sec{
+    padding: 80px 0px;
+}
+.video-home {
+    background-color: #FFFFFF;
+    box-shadow: -3px 5px 20px rgb(0 0 0 / 20%);
+    margin: 25px 25px 25px 0px;
+    border-radius: 20px 20px 0px 0px;
+}
+.video-home iframe{
+    border-radius: 20px 20px 0px 0px;
+}
+.video-head {
+    padding: 10px;
+    position: relative;
+}
+
+
+.video-head ul li span{
+    color:red;
+}
+
+.video-head h4{
+    color:rgb(0, 183, 255);
+}
+
+.video-head h6{
+    color:rgb(0, 183, 255);
+}
+
+.video-head p{
+    color:#a3a3a3e1;
+}
+.video-home1{
+    background-color: #FFFFFF;
+    box-shadow: -3px 5px 20px rgb(0 0 0 / 20%);
+    margin-top: 15px;
+    border-radius: 20px 20px 0px 0px;
+}
+.video-home1 iframe{
+    border-radius: 20px 20px 0px 0px;
+}
+
+.video-head ul li:nth-child(1){
+    color:#a3a3a3e1;
+}
